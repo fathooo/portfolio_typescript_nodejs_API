@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "date": "2019-01-01",
+        "weather": "rainy",
+        "visibility": "poor",
+        "comment": "Pretty scary flight, i'm glad i made it" ,
+        "temperature": 20
+    },
+    {
+        "id": 2,
+        "date": "2019-01-02",
+        "weather": "sunny",
+        "visibility": "good",
+        "comment": "Nice flight, i saw a lot of birds" ,
+        "temperature": 12
+    },
+    {
+        "id": 3,
+        "date": "2019-01-03",
+        "weather": "cloudy",
+        "visibility": "good",
+        "comment": "Nice flight, there was a bit traffic" ,
+        "temperature": 28
+    },
+    {
+        "id": 4,
+        "date": "2019-01-04",
+        "weather": "sunny",
+        "visibility": "good",
+        "comment": "Nice flight, i saw a lot of birds" ,
+        "temperature": 40
+    }
+]
